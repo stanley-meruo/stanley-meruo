@@ -1,6 +1,5 @@
 <iframe src="https://giphy.com/embed/zZg05JXw0PR6Pod1NC" width="480" height="408" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/scratchgarden-robot-climbing-stairs-zZg05JXw0PR6Pod1NC">via GIPHY</a></p>
 
-
 - 👋 Hi, I’m @stanley-meruo
 - 👀 I’m interested in collaborating and meeting great developers
 - 🌱 I’m currently learning ...
