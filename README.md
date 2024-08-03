@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Stanley Meruo</h1>
 <h3 align="center">A passionate frontend developer from Lagos, Nigeria</h3>
-<img src="https://media.tenor.com/CigpzapemsoAAAAi/hi-robot.gif" alt="Hi Robot"/>
+<p align="center"><img src="https://media.tenor.com/CigpzapemsoAAAAi/hi-robot.gif" alt="Hi Robot"/></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stanley-meruo&label=Profile%20views&color=0e75b6&style=flat" alt="stanley-meruo" /> </p>
 
