@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Stanley Meruo</h1>
 <h3 align="center">A passionate frontend developer from Lagos, Nigeria</h3>
+<div style="width:100%;height:0;padding-bottom:85%;position:relative;"><iframe src="https://giphy.com/embed/zZg05JXw0PR6Pod1NC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/scratchgarden-robot-climbing-stairs-zZg05JXw0PR6Pod1NC">via GIPHY</a></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stanley-meruo&label=Profile%20views&color=0e75b6&style=flat" alt="stanley-meruo" /> </p>
 
@@ -8,9 +9,10 @@
 <p align="left"> <a href="https://twitter.com/stanley_meruo" target="blank"><img src="https://img.shields.io/twitter/follow/stanley_meruo?logo=twitter&style=for-the-badge" alt="stanley_meruo" /></a> </p>
 
 - 📫 How to reach me **meruostanleovic86@gmail.com**
-
+- 💻 How to reach me **React and Next.JS framework**
+- 🧑‍🤝‍🧑 I'm looking to collaborate on **Frontend development, FullStack**
 - ⚡ Fun fact **I am funny and i am also a Visual Artist and an Illustrator**
-
+ 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
