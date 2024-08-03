@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Stanley Meruo</h1>
 <h3 align="center">A passionate frontend developer from Lagos, Nigeria</h3>
-<div class="tenor-gif-embed" data-postid="18871668" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/hi-robot-gif-18871668">Hi Robot Sticker</a>from <a href="https://tenor.com/search/hi+robot-stickers">Hi Robot Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img src="https://media.tenor.com/CigpzapemsoAAAAi/hi-robot.gif" alt="Hi Robot"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stanley-meruo&label=Profile%20views&color=0e75b6&style=flat" alt="stanley-meruo" /> </p>
 
