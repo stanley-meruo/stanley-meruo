@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Stanley Meruo</h1>
 <h3 align="center">A passionate frontend developer from Lagos, Nigeria</h3>
-<div align="center" width="100"><img src="https://media.tenor.com/CigpzapemsoAAAAi/hi-robot.gif" alt="Hi Robot"/></div>
+<div align="center" width="100"><img src="https://media3.giphy.com/avatars/acetech/RK67baKq9A79.gif" alt="HI ROBOT/></div>
 
 - 📫 How to reach me **meruostanleovic86@gmail.com**
 - 💻 I'm learning **React and Next.JS framework**
