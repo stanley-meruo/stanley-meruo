@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Stanley Meruo</h1>
+<h1 align="center"><b>Hi 👋, I'm Stanley Meruo</b></h1>
 <h3 align="center">A passionate frontend developer from Lagos, Nigeria</h3>
-<div align="center" width="100"><img src="https://media3.giphy.com/avatars/acetech/RK67baKq9A79.gif" alt="HI ROBOT/></div>
+<div align="center" width="100"><img src="https://media3.giphy.com/avatars/acetech/RK67baKq9A79.gif" alt="HI ROBOT"/></div>
 
 - 📫 How to reach me **meruostanleovic86@gmail.com**
-- 💻 I'm learning **React and Next.JS framework**
+- 💻 I'm learning **Javascript amd React Framework**
 - 🧑‍🤝‍🧑 I'm looking to collaborate on **Frontend development, FullStack**
 - ⚡ Fun fact **I am funny and i am also a Visual Artist and an Illustrator**
  
