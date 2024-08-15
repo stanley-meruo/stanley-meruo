@@ -5,7 +5,7 @@
 - 📫 How to reach me **meruostanleovic86@gmail.com**
 - 💻 I'm learning **Javascript amd React Framework**
 - 🧑‍🤝‍🧑 I'm looking to collaborate on **Frontend development, FullStack**
-- ⚡ Fun fact **I am funny and i am also a Visual Artist and an Illustrator**
+- ⚡ Fun fact: **I am funny and i am also a Visual Artist and an Illustrator**
  
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
