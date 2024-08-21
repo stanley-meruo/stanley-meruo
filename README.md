@@ -1,9 +1,18 @@
 <h1 align="center"><strong>Hi 👋, I'm Stanley Meruo</strong></h1>
-<h3 align="center">A passionate frontend developer from Lagos, Nigeria</h3>
+<h3 align="center">A passionate frontend developer from Lagos, Nigeria</h3> 
+
+<p></p>I'm a self-taught developer who enjoys contributing to open-source projects. My interest in electronics and how things work led to my introduction to computers.
+
+Whenever I have the opportunity, I try to experiment with new technologies and languages.
+
+My first programming language was HTML, then CSS to styling and later i begin to learn Javascript, which I picked up in my spare time a few years ago and haven't looked back since.
+
+I enjoy watching animations and I love to draw and paint, create Art and visualise things not only on paper and canvas but anywhere that attracts creativity.</p>
+
 <div align="center" width="100"><img src="https://media3.giphy.com/avatars/acetech/RK67baKq9A79.gif" alt="HI ROBOT"/></div>
 
 - 📫 How to reach me **meruostanleovic86@gmail.com**
-- 💻 I'm learning **Javascript amd React Framework**
+- 💻 I'm learning **React and Javacripts Framework**
 - 🧑‍🤝‍🧑 I'm looking to collaborate on **Frontend development, FullStack**
 - ⚡ Fun fact: **I am funny and i am also a Visual Artist and an Illustrator**
  
