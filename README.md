@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Lagos, Nigeria</h3> 
 
 <p>I'm a passionate developer who enjoys contributing to open-source projects and making new friends in Tech Industries. Whenever I have the opportunity, I try to experiment with new technologies and languages.
-My first programming language was HTML, then CSS to styling and later i begin to learn Javascript, which I picked up in my spare time a few years ago and haven't looked back since.
+Learning Tech is something i really like and also explore with.
 
 I enjoy watching animations and I love to draw and paint, create Art and visualise things not only on paper and canvas but anywhere that attracts creativity.</p>
 
