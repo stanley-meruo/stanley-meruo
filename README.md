@@ -18,7 +18,7 @@ I enjoy watching animations and I love to draw and paint, create Art and visuali
 <p align="left">
 <a href="https://codepen.io/@stanley-meruo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@stanley-meruo" height="30" width="40" /></a>
 <a href="https://dev.to/stanleymeruo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="stanleymeruo" height="30" width="40" /></a>
-<a href="https://twitter.com/stanley_meruo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="stanley_meruo" height="30" width="40" /></a>
+<a href="https://twitter.com/stanley_meruo8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="stanley_meruo" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/@stanley-meruo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@stanley-meruo" height="30" width="40" /></a>
 <a href="https://www.behance.net/stanleymeruo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="stanleymeruo" height="30" width="40" /></a>
 </p>
